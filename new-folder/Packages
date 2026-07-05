@@ -1,0 +1,19 @@
+MD5Sum:
+ 10470b5e7bda8bee6deb2f608add8711 Asphalt5.deb
+ d5aeec13250e8fadc60f7cce809968b9 GTA3.deb
+ 340ae24db89c75f6a311570cb85159b5 THPS2.deb
+ 7b895d1c9e5964c65d209dbc1d4a05b3 tetris.deb
+Maintainer: Micheal Evan speedhomeless226@gmail.com
+Package: the big M
+Section: Games
+Author: The Big M speedhomeless226@gmail.com
+Filename: debs/
+Version: 1.0
+Architecture: iphoneos-arm
+Size:
+ 230921340 Asphalt5.deb
+ 424730836 GTA3.deb
+ 35005212 tetris.deb
+ 136012492 THPS2.deb
+Homepage: about:blank
+Name: FREE PAID GAMES
